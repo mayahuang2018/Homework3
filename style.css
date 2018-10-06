@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    
+  }
+
+nav {
+    text-align: center;
+    padding-right: 15px;
+    padding-top: 100px;
+    padding-bottom: 300px;
+
+
+}
+
+
+.hide {
+    display:none;
+}
+
+.show {
+    display:block;
+}
